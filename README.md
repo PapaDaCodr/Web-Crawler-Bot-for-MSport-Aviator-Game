@@ -18,4 +18,6 @@ username: The username of the MSport account.
 password: The password of the MSport account.
 # Notes
 The bot is still in development and may not be fully functional.
+And it is for educational purposes only
+
 # You can use the bot at your own risk.
